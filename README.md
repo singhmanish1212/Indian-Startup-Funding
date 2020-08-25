@@ -4,7 +4,6 @@
 ## Overview:
 In this project, we are going to perform exploratory data analysis on the Indian startup funding dataset. Also we will infer some insights and try to answer certain questions about the Indian startup ecosystem.
 
-> Read more about it in my [Blogpost](https://medium.com/@adityamankar09/do-startups-in-bangalore-get-funded-more-19cbf1ed56b6)
 
 ## Dataset:
 | Column Id |    Column Names   | Data type | Count | Null values |             Description             |
